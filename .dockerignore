@@ -1,0 +1,5 @@
+.git
+minio_data
+app/.ipynb_checkpoints
+**/.ipynb_checkpoints
+README.md
